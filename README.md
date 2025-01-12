@@ -80,7 +80,7 @@ This project aims to predict **gold prices** by analyzing their relationship wit
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/gold-price-prediction-sentiment.git](https://github.com/LoveselvanGit/gold-price-prediction-sentiment.git)
+   git clone https://github.com/LoveselvanGit/gold-price-prediction-sentiment.git
    pip install pandas numpy matplotlib seaborn statsmodels fbprophet tensorflow nltk
 
 import nltk
