@@ -1,4 +1,3 @@
-# gold-price-prediction-sentiment
 
 # Gold Price Prediction with Market Sentiment Analysis
 
